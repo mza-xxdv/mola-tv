@@ -284,7 +284,7 @@ const rand = Math.floor(Math.random() * (max - min + 1) + min);
 
     const MoveData = `${realEmail}|${password}\n`;
     if (MoveData) {
-      const MoveResult = fs.appendFileSync("dataresult.txt", MoveData);
+      const MoveResult = fs.appendFileSync("/storage/emulated/0/dataresult.txt", MoveData);
     }
     console.log("");
   }
