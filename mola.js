@@ -221,7 +221,7 @@ const rand = Math.floor(Math.random() * (max - min + 1) + min);
     const fullName = `${firstNamee} ${lastNamee}`;
     const emailnya = getDatanya.email;
     const newEmail = emailnya.trim();
-    const password = "Juragan123";
+    const password = "jakarta17";
 
     console.log(newEmail);
 
