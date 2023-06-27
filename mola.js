@@ -194,10 +194,10 @@ const Trial = (deviceIdnya, token, serial) =>
         advertisingId: "efdbe35f-f4f8-4f57-b27e-ba39b7802fb5",
         appsflyerId: "1683431267418-5848736556801870020",
         deviceId: deviceIdnya,
-        deviceName: "Polytron",
+        deviceName: "Samsung",
         deviceType: "Android",
         idToken: token,
-        modelNo: "2K PA Smart TV",
+        modelNo: "UA43AU7002KXXD",
         serialNo: serial,
       }),
     })
