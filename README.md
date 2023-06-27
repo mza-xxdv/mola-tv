@@ -4,7 +4,7 @@ Premium Mola TV account with Authenticated Serial Number
 #How To Use?
 do repeat after me 
 
-1. git clone https://github.com/mza-xxdv/mola-tv
+1. git clone https://github.com/mza-xxdv/molatv3b.git
 2. cd mola-tv
 3. npm install
 4. node mola.js
