@@ -15,4 +15,4 @@ do repeat after me
 
 
 Copy Ur email and login 
-use Juragan123 as Password
+use jakarta17 as Password
